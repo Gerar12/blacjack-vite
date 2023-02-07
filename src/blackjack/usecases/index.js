@@ -1,0 +1,12 @@
+export { crearDeck, dect } from "./crearDect";
+export { pedirCarta } from "./pedirCarta";
+export { valorCarta } from "./valorCarta";
+export { puntosJugadores, inciarEljuego } from "./crearPlayers";
+export { crearCartasAlHTML } from "./creaLaCartaHTML";
+export { quienGana } from "./quienGana";
+export { acumularPuntos, sumaDelJugador } from "./acumularPuntos";
+export { turnoDeLaIA } from "./turnoDeLaIA";
+export { nuevoJuego } from "./nuevoJuego";
+export { cambiarEstadosdeBotones } from "./cambiarEstadosBotonoes";
+export { funcionPedirCarta } from "./logicaDelJugador";
+export { detenerJuego } from "./detenerJuego";
