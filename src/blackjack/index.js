@@ -25,4 +25,4 @@ import {
   btnNuevoJuego.addEventListener("click", nuevoJuego);
 })();
 
-console.log("Pura mrd");
+console.log("Cambio desde test");
