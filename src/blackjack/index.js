@@ -24,3 +24,5 @@ import {
   //Evento nuevo juego boton
   btnNuevoJuego.addEventListener("click", nuevoJuego);
 })();
+
+console.log("Hello Wolrd");
